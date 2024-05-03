@@ -1,2 +1,4 @@
-# Codes
-Collection of my codes
+#Information
+Gordon College Student
+Freshman
+BSIT
